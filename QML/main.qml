@@ -50,7 +50,7 @@ Window {
     Rectangle {
         color: "lightgray"
         width: 200
-        height: 200
+        height: 100
         x: 400
 
         property int animatedValue: 0
@@ -65,6 +65,30 @@ Window {
             text: parent.animatedValue
         }
     }
+
+    MessageLabel {
+        width: 200
+        y: 200
+        msgType: "debug"
+    }
+
+    MessageLabel {
+        width: 200
+        x: 210
+        y: 200
+        msgType: "warning"
+        message: "this is warning"
+    }
+
+    MessageLabel {
+        width: 200
+        y: 200
+        x: 420
+        message: "A cricial warning"
+        msgType: "critical"
+    }
+
+
 
     //window containing the application
     ApplicationWindow {
