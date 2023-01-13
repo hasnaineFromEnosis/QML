@@ -1,0 +1,88 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-3b98a879c9eacafe1410.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "QML",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "QML::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QML-Debug-e21b32b187ebf4371dd3.json",
+					"name" : "QML",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QML_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QML_autogen-Debug-b392fc9f0fc2d3d5c049.json",
+					"name" : "QML_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QML_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QML_autogen_timestamp_deps-Debug-8db3cc315a9649121299.json",
+					"name" : "QML_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QML_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QML_qmlimportscan-Debug-7c4c879e0fa6f11366b1.json",
+					"name" : "QML_qmlimportscan",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/hasnaine/Documents/QT Practice/QML/build-QML-Desktop_Qt_6_4_2_MinGW_64_bit-Debug",
+		"source" : "C:/Users/hasnaine/Documents/QT Practice/QML/QML"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

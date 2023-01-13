@@ -1,0 +1,9 @@
+-rootPath
+C:/Users/hasnaine/Documents/QT Practice/QML/QML
+-cmake-output
+-output-file
+C:/Users/hasnaine/Documents/QT Practice/QML/build-QML-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_QML.cmake
+-importPath
+C:/Users/hasnaine/Documents/QT Practice/QML/build-QML-Desktop_Qt_6_4_2_MinGW_64_bit-Debug
+-importPath
+C:/Qt/6.4.2/mingw_64/./qml
