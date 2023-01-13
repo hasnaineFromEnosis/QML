@@ -26,6 +26,27 @@ Window {
         }
     }
 
+    Rectangle {
+        width: 200
+        height: 100
+        color: "green"
+        x: 200
+
+
+        Text {
+            anchors.centerIn: parent
+            text: "Hello, Rectangle 2!"
+        }
+
+        focus: true
+            Keys.onPressed: {
+                if (event.key == Qt.Key_Return) {
+                    color = "blue";
+                    event.accepted = true;
+                }
+            }
+    }
+
     //window containing the application
     ApplicationWindow {
 
