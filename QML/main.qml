@@ -18,6 +18,12 @@ Window {
             anchors.centerIn: parent
             text: "Hello, Rectangle!"
         }
+
+        TapHandler {
+               onTapped: {
+                   parent.color = "red"
+               }
+        }
     }
 
     //window containing the application
