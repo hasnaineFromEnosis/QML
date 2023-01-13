@@ -1,85 +1,41 @@
 # ninja log v5
+50	256	6953051757630288	QML_autogen/timestamp	1334a9fc2d01ab8d
 1	50	6953051756543163	.qt_plugins/Qt6_QmlPlugins_Imports_QML.cmake	bf0e83ad1653d91f
 1	50	6953051756543163	C:/Users/hasnaine/Documents/QT Practice/QML/build-QML-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_QML.cmake	bf0e83ad1653d91f
-50	256	6953051757630288	QML_autogen/timestamp	1334a9fc2d01ab8d
-50	256	6953051757630288	QML_autogen/mocs_compilation.cpp	1334a9fc2d01ab8d
 50	256	6953051757630288	C:/Users/hasnaine/Documents/QT Practice/QML/build-QML-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/QML_autogen/timestamp	1334a9fc2d01ab8d
+4	56	6953065487776083	QML_autogen/EWIEGA46WW/qrc_qml.cpp	fe4a57e5cea226c7
+50	256	6953051757630288	QML_autogen/mocs_compilation.cpp	1334a9fc2d01ab8d
 50	256	6953051757630288	C:/Users/hasnaine/Documents/QT Practice/QML/build-QML-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/QML_autogen/mocs_compilation.cpp	1334a9fc2d01ab8d
-256	313	6953051759151940	QML_autogen/EWIEGA46WW/qrc_qml.cpp	fe4a57e5cea226c7
-256	313	6953051759151940	C:/Users/hasnaine/Documents/QT Practice/QML/build-QML-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/QML_autogen/EWIEGA46WW/qrc_qml.cpp	fe4a57e5cea226c7
-317	367	6953051759728361	CMakeFiles/QML.dir/QML_autogen/EWIEGA46WW/qrc_qml.cpp.obj	56f7f6e92a84988f
+4	56	6953065487776083	C:/Users/hasnaine/Documents/QT Practice/QML/build-QML-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/QML_autogen/EWIEGA46WW/qrc_qml.cpp	fe4a57e5cea226c7
+56	102	6953065488281022	CMakeFiles/QML.dir/QML_autogen/EWIEGA46WW/qrc_qml.cpp.obj	56f7f6e92a84988f
 320	373	6953051759801624	CMakeFiles/QML.dir/QML_autogen/mocs_compilation.cpp.obj	69fc054ae1eda92a
 314	1704	6953051773098161	CMakeFiles/QML.dir/main.cpp.obj	9fa63fdc1f156661
-1707	1835	6953051774355054	QML.exe	b548fc7c575146f7
-11	74	6953052049511987	QML_autogen/EWIEGA46WW/qrc_qml.cpp	fe4a57e5cea226c7
-11	74	6953052049511987	C:/Users/hasnaine/Documents/QT Practice/QML/build-QML-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/QML_autogen/EWIEGA46WW/qrc_qml.cpp	fe4a57e5cea226c7
-74	124	6953052050045896	CMakeFiles/QML.dir/QML_autogen/EWIEGA46WW/qrc_qml.cpp.obj	56f7f6e92a84988f
-124	253	6953052051298727	QML.exe	b548fc7c575146f7
-4	57	6953053251940746	QML_autogen/EWIEGA46WW/qrc_qml.cpp	fe4a57e5cea226c7
-4	57	6953053251940746	C:/Users/hasnaine/Documents/QT Practice/QML/build-QML-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/QML_autogen/EWIEGA46WW/qrc_qml.cpp	fe4a57e5cea226c7
-58	106	6953053252492276	CMakeFiles/QML.dir/QML_autogen/EWIEGA46WW/qrc_qml.cpp.obj	56f7f6e92a84988f
-106	240	6953053253766505	QML.exe	b548fc7c575146f7
-3	57	6953053520153216	QML_autogen/EWIEGA46WW/qrc_qml.cpp	fe4a57e5cea226c7
-3	57	6953053520153216	C:/Users/hasnaine/Documents/QT Practice/QML/build-QML-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/QML_autogen/EWIEGA46WW/qrc_qml.cpp	fe4a57e5cea226c7
-57	104	6953053520653103	CMakeFiles/QML.dir/QML_autogen/EWIEGA46WW/qrc_qml.cpp.obj	56f7f6e92a84988f
-104	230	6953053521845453	QML.exe	b548fc7c575146f7
-7	66	6953053638327233	QML_autogen/EWIEGA46WW/qrc_qml.cpp	fe4a57e5cea226c7
-7	66	6953053638327233	C:/Users/hasnaine/Documents/QT Practice/QML/build-QML-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/QML_autogen/EWIEGA46WW/qrc_qml.cpp	fe4a57e5cea226c7
-66	115	6953053638856785	CMakeFiles/QML.dir/QML_autogen/EWIEGA46WW/qrc_qml.cpp.obj	56f7f6e92a84988f
-116	240	6953053640075559	QML.exe	b548fc7c575146f7
-4	53	6953053753075787	QML_autogen/EWIEGA46WW/qrc_qml.cpp	fe4a57e5cea226c7
-4	53	6953053753075787	C:/Users/hasnaine/Documents/QT Practice/QML/build-QML-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/QML_autogen/EWIEGA46WW/qrc_qml.cpp	fe4a57e5cea226c7
-53	100	6953053753603120	CMakeFiles/QML.dir/QML_autogen/EWIEGA46WW/qrc_qml.cpp.obj	56f7f6e92a84988f
-100	222	6953053754761013	QML.exe	b548fc7c575146f7
-4	58	6953055504023820	QML_autogen/EWIEGA46WW/qrc_qml.cpp	fe4a57e5cea226c7
-4	58	6953055504023820	C:/Users/hasnaine/Documents/QT Practice/QML/build-QML-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/QML_autogen/EWIEGA46WW/qrc_qml.cpp	fe4a57e5cea226c7
-58	109	6953055504587037	CMakeFiles/QML.dir/QML_autogen/EWIEGA46WW/qrc_qml.cpp.obj	56f7f6e92a84988f
-109	241	6953055505852167	QML.exe	b548fc7c575146f7
-4	52	6953055654627620	QML_autogen/EWIEGA46WW/qrc_qml.cpp	fe4a57e5cea226c7
-4	52	6953055654627620	C:/Users/hasnaine/Documents/QT Practice/QML/build-QML-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/QML_autogen/EWIEGA46WW/qrc_qml.cpp	fe4a57e5cea226c7
-52	97	6953055655108349	CMakeFiles/QML.dir/QML_autogen/EWIEGA46WW/qrc_qml.cpp.obj	56f7f6e92a84988f
-98	216	6953055656250742	QML.exe	b548fc7c575146f7
-4	57	6953056344781006	QML_autogen/EWIEGA46WW/qrc_qml.cpp	fe4a57e5cea226c7
-4	57	6953056344781006	C:/Users/hasnaine/Documents/QT Practice/QML/build-QML-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/QML_autogen/EWIEGA46WW/qrc_qml.cpp	fe4a57e5cea226c7
-57	100	6953056345251454	CMakeFiles/QML.dir/QML_autogen/EWIEGA46WW/qrc_qml.cpp.obj	56f7f6e92a84988f
-100	221	6953056346408162	QML.exe	b548fc7c575146f7
-4	54	6953056571450421	QML_autogen/EWIEGA46WW/qrc_qml.cpp	fe4a57e5cea226c7
-4	54	6953056571450421	C:/Users/hasnaine/Documents/QT Practice/QML/build-QML-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/QML_autogen/EWIEGA46WW/qrc_qml.cpp	fe4a57e5cea226c7
-54	98	6953056571926928	CMakeFiles/QML.dir/QML_autogen/EWIEGA46WW/qrc_qml.cpp.obj	56f7f6e92a84988f
-99	221	6953056573102993	QML.exe	b548fc7c575146f7
-3	52	6953056769716172	QML_autogen/EWIEGA46WW/qrc_qml.cpp	fe4a57e5cea226c7
-3	52	6953056769716172	C:/Users/hasnaine/Documents/QT Practice/QML/build-QML-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/QML_autogen/EWIEGA46WW/qrc_qml.cpp	fe4a57e5cea226c7
-52	96	6953056770196070	CMakeFiles/QML.dir/QML_autogen/EWIEGA46WW/qrc_qml.cpp.obj	56f7f6e92a84988f
-96	216	6953056771343303	QML.exe	b548fc7c575146f7
-4	56	6953058509299144	QML_autogen/EWIEGA46WW/qrc_qml.cpp	fe4a57e5cea226c7
-4	56	6953058509299144	C:/Users/hasnaine/Documents/QT Practice/QML/build-QML-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/QML_autogen/EWIEGA46WW/qrc_qml.cpp	fe4a57e5cea226c7
-56	102	6953058509799309	CMakeFiles/QML.dir/QML_autogen/EWIEGA46WW/qrc_qml.cpp.obj	56f7f6e92a84988f
-102	225	6953058510973848	QML.exe	b548fc7c575146f7
-6	61	6953058944655825	QML_autogen/EWIEGA46WW/qrc_qml.cpp	fe4a57e5cea226c7
-6	61	6953058944655825	C:/Users/hasnaine/Documents/QT Practice/QML/build-QML-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/QML_autogen/EWIEGA46WW/qrc_qml.cpp	fe4a57e5cea226c7
-61	107	6953058945176096	CMakeFiles/QML.dir/QML_autogen/EWIEGA46WW/qrc_qml.cpp.obj	56f7f6e92a84988f
-107	229	6953058946336848	QML.exe	b548fc7c575146f7
-4	54	6953059311125846	QML_autogen/EWIEGA46WW/qrc_qml.cpp	fe4a57e5cea226c7
-4	54	6953059311125846	C:/Users/hasnaine/Documents/QT Practice/QML/build-QML-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/QML_autogen/EWIEGA46WW/qrc_qml.cpp	fe4a57e5cea226c7
-55	103	6953059311660533	CMakeFiles/QML.dir/QML_autogen/EWIEGA46WW/qrc_qml.cpp.obj	56f7f6e92a84988f
-103	230	6953059312870474	QML.exe	b548fc7c575146f7
-4	50	6953059696676463	QML_autogen/EWIEGA46WW/qrc_qml.cpp	fe4a57e5cea226c7
-4	50	6953059696676463	C:/Users/hasnaine/Documents/QT Practice/QML/build-QML-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/QML_autogen/EWIEGA46WW/qrc_qml.cpp	fe4a57e5cea226c7
-51	95	6953059697171864	CMakeFiles/QML.dir/QML_autogen/EWIEGA46WW/qrc_qml.cpp.obj	56f7f6e92a84988f
-96	217	6953059698331291	QML.exe	b548fc7c575146f7
-4	54	6953060553483288	QML_autogen/EWIEGA46WW/qrc_qml.cpp	fe4a57e5cea226c7
-4	54	6953060553483288	C:/Users/hasnaine/Documents/QT Practice/QML/build-QML-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/QML_autogen/EWIEGA46WW/qrc_qml.cpp	fe4a57e5cea226c7
-54	101	6953060554002921	CMakeFiles/QML.dir/QML_autogen/EWIEGA46WW/qrc_qml.cpp.obj	56f7f6e92a84988f
-102	228	6953060555229161	QML.exe	b548fc7c575146f7
-5	55	6953061256026333	QML_autogen/EWIEGA46WW/qrc_qml.cpp	fe4a57e5cea226c7
-5	55	6953061256026333	C:/Users/hasnaine/Documents/QT Practice/QML/build-QML-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/QML_autogen/EWIEGA46WW/qrc_qml.cpp	fe4a57e5cea226c7
-55	101	6953061256529784	CMakeFiles/QML.dir/QML_autogen/EWIEGA46WW/qrc_qml.cpp.obj	56f7f6e92a84988f
-101	235	6953061257808827	QML.exe	b548fc7c575146f7
-4	52	6953061476107992	QML_autogen/EWIEGA46WW/qrc_qml.cpp	fe4a57e5cea226c7
-4	52	6953061476107992	C:/Users/hasnaine/Documents/QT Practice/QML/build-QML-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/QML_autogen/EWIEGA46WW/qrc_qml.cpp	fe4a57e5cea226c7
-52	96	6953061476593674	CMakeFiles/QML.dir/QML_autogen/EWIEGA46WW/qrc_qml.cpp.obj	56f7f6e92a84988f
-96	219	6953061477765744	QML.exe	b548fc7c575146f7
-4	52	6953061909828497	QML_autogen/EWIEGA46WW/qrc_qml.cpp	fe4a57e5cea226c7
-4	52	6953061909828497	C:/Users/hasnaine/Documents/QT Practice/QML/build-QML-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/QML_autogen/EWIEGA46WW/qrc_qml.cpp	fe4a57e5cea226c7
-52	99	6953061910335760	CMakeFiles/QML.dir/QML_autogen/EWIEGA46WW/qrc_qml.cpp.obj	56f7f6e92a84988f
-99	255	6953061911827165	QML.exe	b548fc7c575146f7
+103	226	6953065489462182	QML.exe	b548fc7c575146f7
+5	53	6953065989726995	QML_autogen/EWIEGA46WW/qrc_qml.cpp	fe4a57e5cea226c7
+5	53	6953065989726995	C:/Users/hasnaine/Documents/QT Practice/QML/build-QML-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/QML_autogen/EWIEGA46WW/qrc_qml.cpp	fe4a57e5cea226c7
+53	95	6953065990206273	CMakeFiles/QML.dir/QML_autogen/EWIEGA46WW/qrc_qml.cpp.obj	56f7f6e92a84988f
+96	218	6953065991354028	QML.exe	b548fc7c575146f7
+4	56	6953066303787303	QML_autogen/EWIEGA46WW/qrc_qml.cpp	fe4a57e5cea226c7
+4	56	6953066303787303	C:/Users/hasnaine/Documents/QT Practice/QML/build-QML-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/QML_autogen/EWIEGA46WW/qrc_qml.cpp	fe4a57e5cea226c7
+57	104	6953066304292894	CMakeFiles/QML.dir/QML_autogen/EWIEGA46WW/qrc_qml.cpp.obj	56f7f6e92a84988f
+104	235	6953066305526459	QML.exe	b548fc7c575146f7
+3	56	6953066440290107	QML_autogen/EWIEGA46WW/qrc_qml.cpp	fe4a57e5cea226c7
+3	56	6953066440290107	C:/Users/hasnaine/Documents/QT Practice/QML/build-QML-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/QML_autogen/EWIEGA46WW/qrc_qml.cpp	fe4a57e5cea226c7
+56	103	6953066440800278	CMakeFiles/QML.dir/QML_autogen/EWIEGA46WW/qrc_qml.cpp.obj	56f7f6e92a84988f
+103	225	6953066441974126	QML.exe	b548fc7c575146f7
+4	56	6953066801875151	QML_autogen/EWIEGA46WW/qrc_qml.cpp	fe4a57e5cea226c7
+4	56	6953066801875151	C:/Users/hasnaine/Documents/QT Practice/QML/build-QML-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/QML_autogen/EWIEGA46WW/qrc_qml.cpp	fe4a57e5cea226c7
+57	103	6953066802381263	CMakeFiles/QML.dir/QML_autogen/EWIEGA46WW/qrc_qml.cpp.obj	56f7f6e92a84988f
+103	232	6953066803618621	QML.exe	b548fc7c575146f7
+3	53	6953067424813788	QML_autogen/EWIEGA46WW/qrc_qml.cpp	fe4a57e5cea226c7
+3	53	6953067424813788	C:/Users/hasnaine/Documents/QT Practice/QML/build-QML-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/QML_autogen/EWIEGA46WW/qrc_qml.cpp	fe4a57e5cea226c7
+53	99	6953067425314371	CMakeFiles/QML.dir/QML_autogen/EWIEGA46WW/qrc_qml.cpp.obj	56f7f6e92a84988f
+100	219	6953067426461152	QML.exe	b548fc7c575146f7
+4	61	6953067721631467	QML_autogen/EWIEGA46WW/qrc_qml.cpp	fe4a57e5cea226c7
+4	61	6953067721631467	C:/Users/hasnaine/Documents/QT Practice/QML/build-QML-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/QML_autogen/EWIEGA46WW/qrc_qml.cpp	fe4a57e5cea226c7
+61	108	6953067722137952	CMakeFiles/QML.dir/QML_autogen/EWIEGA46WW/qrc_qml.cpp.obj	56f7f6e92a84988f
+108	247	6953067723475922	QML.exe	b548fc7c575146f7
+5	62	6953067896354201	QML_autogen/EWIEGA46WW/qrc_qml.cpp	fe4a57e5cea226c7
+5	62	6953067896354201	C:/Users/hasnaine/Documents/QT Practice/QML/build-QML-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/QML_autogen/EWIEGA46WW/qrc_qml.cpp	fe4a57e5cea226c7
+62	109	6953067896868050	CMakeFiles/QML.dir/QML_autogen/EWIEGA46WW/qrc_qml.cpp.obj	56f7f6e92a84988f
+109	232	6953067898046162	QML.exe	b548fc7c575146f7

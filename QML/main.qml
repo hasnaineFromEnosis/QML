@@ -40,11 +40,30 @@ Window {
 
         focus: true
             Keys.onPressed: {
-                if (event.key == Qt.Key_Return) {
+                if (event.key === Qt.Key_Return) {
                     color = "blue";
                     event.accepted = true;
                 }
             }
+    }
+
+    Rectangle {
+        color: "lightgray"
+        width: 200
+        height: 200
+        x: 400
+
+        property int animatedValue: 0
+        SequentialAnimation on animatedValue {
+            loops: Animation.Infinite
+            PropertyAnimation { to: 150; duration: 10000 }
+            PropertyAnimation { to: 0; duration: 1000 }
+        }
+
+        Text {
+            anchors.centerIn: parent
+            text: parent.animatedValue
+        }
     }
 
     //window containing the application
