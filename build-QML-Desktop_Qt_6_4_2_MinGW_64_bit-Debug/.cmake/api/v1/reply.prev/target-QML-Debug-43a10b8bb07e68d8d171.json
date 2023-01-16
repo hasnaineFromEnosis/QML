@@ -610,15 +610,15 @@
 	"dependencies" : 
 	[
 		{
+			"id" : "QML_autogen_timestamp_deps::@6890427a1f51a3e7e1df"
+		},
+		{
 			"backtrace" : 71,
 			"id" : "QML_qmlimportscan::@6890427a1f51a3e7e1df"
 		},
 		{
 			"backtrace" : 0,
 			"id" : "QML_autogen::@6890427a1f51a3e7e1df"
-		},
-		{
-			"id" : "QML_autogen_timestamp_deps::@6890427a1f51a3e7e1df"
 		}
 	],
 	"id" : "QML::@6890427a1f51a3e7e1df",

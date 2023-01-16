@@ -2,5 +2,14 @@
     <qresource prefix="/">
         <file>main.qml</file>
         <file>MessageLabel.qml</file>
+        <file>Button.qml</file>
+        <file>ClickableImage.qml</file>
+        <file>assets/box_green.png</file>
+        <file>assets/circle_blue.png</file>
+        <file>assets/triangle_red.png</file>
+        <file>assets/background.png</file>
+        <file>textinput.qml</file>
+        <file>textinput2.qml</file>
+        <file>TLineEditV1.qml</file>
     </qresource>
 </RCC>

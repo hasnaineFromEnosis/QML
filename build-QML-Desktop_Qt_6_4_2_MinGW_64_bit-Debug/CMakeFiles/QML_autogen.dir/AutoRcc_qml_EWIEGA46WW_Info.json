@@ -7,8 +7,17 @@
 	"INCLUDE_DIR" : "C:/Users/hasnaine/Documents/QT Practice/QML/build-QML-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/QML_autogen/include",
 	"INPUTS" : 
 	[
+		"C:/Users/hasnaine/Documents/QT Practice/QML/QML/textinput2.qml",
+		"C:/Users/hasnaine/Documents/QT Practice/QML/QML/textinput.qml",
 		"C:/Users/hasnaine/Documents/QT Practice/QML/QML/MessageLabel.qml",
-		"C:/Users/hasnaine/Documents/QT Practice/QML/QML/main.qml"
+		"C:/Users/hasnaine/Documents/QT Practice/QML/QML/TLineEditV1.qml",
+		"C:/Users/hasnaine/Documents/QT Practice/QML/QML/ClickableImage.qml",
+		"C:/Users/hasnaine/Documents/QT Practice/QML/QML/Button.qml",
+		"C:/Users/hasnaine/Documents/QT Practice/QML/QML/main.qml",
+		"C:/Users/hasnaine/Documents/QT Practice/QML/QML/assets/box_green.png",
+		"C:/Users/hasnaine/Documents/QT Practice/QML/QML/assets/background.png",
+		"C:/Users/hasnaine/Documents/QT Practice/QML/QML/assets/circle_blue.png",
+		"C:/Users/hasnaine/Documents/QT Practice/QML/QML/assets/triangle_red.png"
 	],
 	"LOCK_FILE" : "C:/Users/hasnaine/Documents/QT Practice/QML/build-QML-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/CMakeFiles/QML_autogen.dir/AutoRcc_qml_EWIEGA46WW_Lock.lock",
 	"MULTI_CONFIG" : false,

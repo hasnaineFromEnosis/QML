@@ -46,14 +46,14 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "QML::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-QML-Debug-e21b32b187ebf4371dd3.json",
+					"jsonFile" : "target-QML-Debug-43a10b8bb07e68d8d171.json",
 					"name" : "QML",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "QML_autogen::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-QML_autogen-Debug-b392fc9f0fc2d3d5c049.json",
+					"jsonFile" : "target-QML_autogen-Debug-f8d40c1ddae69e084ccd.json",
 					"name" : "QML_autogen",
 					"projectIndex" : 0
 				},
