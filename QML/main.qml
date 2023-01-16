@@ -38,7 +38,7 @@ Window {
             text: "Hello, Rectangle 2!"
         }
 
-//        focus: true
+        focus: true
             Keys.onPressed: {
                 if (event.key === Qt.Key_Return) {
                     color = "blue";
@@ -358,7 +358,6 @@ Window {
                 id: input1
                 text: "Input 1"
                 height: 90
-                focus: true
 
             }
             TLineEditV1 {
