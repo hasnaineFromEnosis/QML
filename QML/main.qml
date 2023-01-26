@@ -122,6 +122,7 @@ Window {
             text: qsTr("Hello World")
             anchors.horizontalCenter: parent.horizontalCenter
             anchors.verticalCenter: parent.verticalCenter
+            onClicked: console.log("Pressed")
         }
 
         Rectangle {
